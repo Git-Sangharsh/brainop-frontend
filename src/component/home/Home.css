@@ -1,0 +1,30 @@
+.home {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.main-home-header{
+  padding: 60px 0px;
+  color: white;
+  background-color: black;
+  width: 100%;
+  text-align: center ;
+  margin: 0;
+}
+
+.home-wrapper{
+  width: 100%;
+  display: flex ;
+  min-height: 100vh;
+}
+.img {
+  width: 100%;
+}
+
+.infinite{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+
