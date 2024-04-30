@@ -50,7 +50,6 @@ const Home = () => {
             ))}
         </InfiniteScroll>
       </div>
-      <h1 className="main-home-header">Keep Scrolling</h1>
     </div>
   );
 };
